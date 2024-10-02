@@ -32,7 +32,7 @@ var reverseVowels = function(s) {
  * @param {string} 
  * @return {string}
  * 
- * This utilizes two pointers, such that worst case is O(n)
+ * This utilizes two pointers, such that its always O(n)
  */
 
 let vowels = ["a", "e", "i", "o", "u"];
